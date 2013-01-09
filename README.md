@@ -1,4 +1,4 @@
-lizard
+Lizard
 ======
 
 Lizard
